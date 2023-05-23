@@ -1,7 +1,4 @@
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-
 ### Olá! Eu sou o Flavio Sousa 💻
 
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htpps://instagram.com/@flaviorodriguesdesousa)
